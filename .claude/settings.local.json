@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:nextra.site)",
+      "Bash(pnpm add next react react-dom nextra nextra-theme-docs)",
+      "Bash(pnpm add:*)",
+      "Bash(sudo pacman -S:*)"
+    ]
+  }
+}

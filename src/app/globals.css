@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand: #F7255E;
+  --color-brand-light: #FF4D7A;
+  --color-brand-dark: #D91E50;
+  --color-brand-bg: #FFF0F3;
+  --color-brand-bg-deep: #FDE8EE;
+  --font-sans: 'Inter', system-ui, -apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+}
